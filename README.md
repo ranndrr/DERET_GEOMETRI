@@ -34,7 +34,7 @@ Sₙ = a(rⁿ − 1) / (r − 1)
 
 ---
 
-##  Penerapan Deret Geometri
+## Penerapan Deret Geometri
 Deret geometri banyak digunakan dalam:
 - Analisis algoritma
 - Perhitungan bunga majemuk
@@ -44,5 +44,5 @@ Deret geometri banyak digunakan dalam:
 
 ---
 
-## 8. Kesimpulan
+## Kesimpulan
 Deret geometri merupakan konsep penting dalam matematika dan informatika untuk memodelkan proses pertumbuhan atau penurunan yang memiliki rasio tetap.
