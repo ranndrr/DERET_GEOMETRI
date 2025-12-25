@@ -1,4 +1,9 @@
 # DERET_GEOMETRI
+
+Muhammad Randi Anggara-103052400071 
+Ni Luh Siska Triandani-103052400074 
+Afifah Nada Sabrina-103052400018 
+
 # Teori Deret Geometri
 
 ## 1. Pengertian
