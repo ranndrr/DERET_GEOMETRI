@@ -1,0 +1,1 @@
+# DERET_GEOMETRI
